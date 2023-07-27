@@ -2,3 +2,4 @@ Hola, amigo!
 123
 456789
 Line from User 2
+Other line from User 2
